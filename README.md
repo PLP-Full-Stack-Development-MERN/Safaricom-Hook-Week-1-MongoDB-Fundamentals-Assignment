@@ -3,7 +3,6 @@
 **Objective:**
 - Apply MongoDB concepts learned throughout the week.
 - Practice database creation, CRUD operations, and aggregation queries.
-- Submit project using GitHub Classroom.
 
 **Instructions:**
 1. **Setup MongoDB:**
