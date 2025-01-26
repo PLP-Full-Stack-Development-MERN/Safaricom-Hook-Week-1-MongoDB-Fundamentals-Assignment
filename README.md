@@ -1,4 +1,4 @@
-**Assignment Title:** Week 1: MongoDB Fundamentals Assignment
+Week 1: MongoDB Fundamentals Assignment
 
 **Objective:**
 - Apply MongoDB concepts learned throughout the week.
