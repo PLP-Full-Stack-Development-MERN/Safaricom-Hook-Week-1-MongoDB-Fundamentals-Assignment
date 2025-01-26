@@ -47,7 +47,6 @@
 
 4. **Submission:**
    - Commit all scripts and the `README.md` to your GitHub repository.
-   - Submit your GitHub repository link via GitHub Classroom.
 
 **Evaluation Criteria:**
 - Proper database structure and schema design.
